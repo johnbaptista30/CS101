@@ -1,0 +1,80 @@
+<html>
+  <head>
+    <title>My first website</title> 
+
+  </head>
+  <body>
+     <p><strong>Hello my Friend welcome to my website</strong></p>
+
+     <img src ='John Mark Baptista Picture.jpg'
+        alt='John Mark N Baptista Picture' 
+        width='200' 
+        height='250'>
+     <p>John Mark N Baptista</p>
+     <p>First year college</p>
+     <p>BSEMC Bachelor of Science in Entertainment and Multimudia</p>
+
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Playing games</li>
+            <li>Watching movies</li>
+            <li>Listening to music</li>
+            <li>Drawing</li>
+        </ul>
+        <h2>Playing games</h2>
+        <ul>
+        <li>Mobile legend Bang Bang</li>
+        <li>Valorant</li>
+        <li>Call of duty Mobile</li>
+        <li>CSGO</li>
+        <li>Among us</li>
+        </ul>
+
+        <h2>movies</h2>
+        <ul> 
+        <li>Horror</li>
+        <li>Action</li>
+        <li>Comedy</li>
+        <li>Romance</li>
+        <li>Anime</li>
+        </ul>
+
+        <h2>Music</h2>
+        <ul>
+        <li>Pop</li>
+        <li>Rock</li>
+        <li>Hip hop</li>
+        <li>Jazz</li>
+        <li>Classical</li>
+        <li>Anime song</li>
+        </ul>
+        </p>
+     <h2>My old Esoprt team</h2>
+     <img src ='Bren.jpg'
+        alt='Bren.jpg'
+        width='200' 
+        height='200'>
+        <p>Im old esport gamer on MLBB Mobile legend bang bang on Esport team Bren esports</p>
+        <h2>My lane</h2>
+        <img src ='Gold lane.jpg'
+        alt='Gold lane.jpg'
+        width='200'
+        height='200'>
+        <p>My lane is gold lane</p>
+        <h2>My heroes</h2>
+        <ul>
+            <li>Granger</li>
+            <li>Beatrix</li>
+            <li>Claude</li>
+            <li>Wan Wan</li>
+            <li>Irithel</li>
+
+        </ul>
+    <p>Thats all about me thank you for visiting my website about me this is for today </p>
+    <h2>John Mark signing off</h2>
+
+
+
+
+  </body>
+</html>
